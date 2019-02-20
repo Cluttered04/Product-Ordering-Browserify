@@ -1,0 +1,34 @@
+{
+    "product": [
+        {
+            "title": "Kong",
+            "description": "Dog Toy",
+            "price": "6.99",
+            "quantity": "1",
+            "image": "https://petco.scene7.com/is/image/PETCO/44431-center-1?$ProductDetail-large$",
+            "id": 1
+        },
+        {
+            "title": "Bone",
+            "description": "Dog Chew",
+            "price": "3.99",
+            "quantity": "1",
+            "image": "https://www.bestbullysticks.com/content/images/thumbs/0005502_monster-dog-bone-14-18-inches.jpeg",
+            "id": 2
+
+        },
+        {
+            "title": "Collar",
+            "description": "Dog Accessories",
+            "price": "8.99",
+            "quantity": "3",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71coMAfSsBL._SL1200_.jpg",
+            "id": 3
+        }
+
+
+
+
+    ]
+
+}
